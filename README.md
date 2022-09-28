@@ -8,7 +8,7 @@
   💜 Also interests in music, playing games, editing video, and programing language<br>
   🎵 I love to hear all genre music.<br>
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iubxv14mog74az4wi1twwoc4h&cover_image=true&theme=compact)](https://spotify-github-     profile.vercel.app/api/view?uid=iubxv14mog74az4wi1twwoc4h&redirect=true)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iubxv14mog74az4wi1twwoc4h&cover_image=false&theme=compact)](https://spotify-github-     profile.vercel.app/api/view?uid=iubxv14mog74az4wi1twwoc4h&redirect=false)
   <br>
 
   <!-- Footer -->
